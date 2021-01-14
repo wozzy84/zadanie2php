@@ -1,0 +1,20 @@
+.title {
+  margin: 10px;
+}
+
+.table {
+  margin: 10px;
+}
+
+.table,
+.table__cell {
+  border: 2px solid #5b0047;
+}
+
+.table__cell {
+  padding: 5px;
+}
+
+.text {
+  margin: 5px 10px;
+}
